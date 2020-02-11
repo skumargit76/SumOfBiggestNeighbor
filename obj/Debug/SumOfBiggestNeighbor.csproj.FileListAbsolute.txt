@@ -1,0 +1,12 @@
+D:\NetProjectExample\SumOfBiggestNeighbor\SumOfBiggestNeighbor\bin\Debug\SumOfBiggestNeighbor.exe.config
+D:\NetProjectExample\SumOfBiggestNeighbor\SumOfBiggestNeighbor\bin\Debug\SumOfBiggestNeighbor.exe
+D:\NetProjectExample\SumOfBiggestNeighbor\SumOfBiggestNeighbor\bin\Debug\SumOfBiggestNeighbor.pdb
+D:\NetProjectExample\SumOfBiggestNeighbor\SumOfBiggestNeighbor\obj\Debug\SumOfBiggestNeighbor.csprojResolveAssemblyReference.cache
+D:\NetProjectExample\SumOfBiggestNeighbor\SumOfBiggestNeighbor\obj\Debug\SumOfBiggestNeighbor.exe
+D:\NetProjectExample\SumOfBiggestNeighbor\SumOfBiggestNeighbor\obj\Debug\SumOfBiggestNeighbor.pdb
+D:\NetProjectExample\Axceligent Solutions\SumOfBiggestNeighbor\SumOfBiggestNeighbor\bin\Debug\SumOfBiggestNeighbor.exe.config
+D:\NetProjectExample\Axceligent Solutions\SumOfBiggestNeighbor\SumOfBiggestNeighbor\obj\Debug\SumOfBiggestNeighbor.exe
+D:\NetProjectExample\Axceligent Solutions\SumOfBiggestNeighbor\SumOfBiggestNeighbor\obj\Debug\SumOfBiggestNeighbor.pdb
+D:\NetProjectExample\Axceligent Solutions\SumOfBiggestNeighbor\SumOfBiggestNeighbor\bin\Debug\SumOfBiggestNeighbor.exe
+D:\NetProjectExample\Axceligent Solutions\SumOfBiggestNeighbor\SumOfBiggestNeighbor\bin\Debug\SumOfBiggestNeighbor.pdb
+D:\NetProjectExample\Axceligent Solutions\SumOfBiggestNeighbor\SumOfBiggestNeighbor\obj\Debug\SumOfBiggestNeighbor.csprojResolveAssemblyReference.cache
